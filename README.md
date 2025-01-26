@@ -1,4 +1,7 @@
 # EDA_TMDb_movie_data
+This Repo could be used as a template to conduct Exploratoy Data Analysis. I put in my code as well as the Tips for further usage.
+
+
 ### Dataset Description 
 
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
